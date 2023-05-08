@@ -1,0 +1,7 @@
+/react-app/node_modules
+/react-app/package-lock.json
+
+/socket/node_modules
+/socket/package-lock.json
+
+.vscode
